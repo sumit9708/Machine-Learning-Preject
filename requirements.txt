@@ -1,2 +1,2 @@
-certifi==2022.5.18.1
-wincertstore==0.2
+flask
+python==3.7

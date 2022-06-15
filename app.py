@@ -3,7 +3,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hi():
-    return "This is my code for deployment"
+    return "CI/CD pipe line created and deployed to heroku"
 
 if __name__=="__main__":
     app.run(debug=True)

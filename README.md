@@ -61,3 +61,20 @@ docker build -t<image name>:<tag name> .
 
 ### note- image name for the docker must be in lower order
 
+### To list docker Images
+'''
+docker images
+'''
+### Run Docker image
+'''
+docker run -p 5000:5000 -e PORT=5000 e0f3e193335d
+'''
+### To check running containers in docker
+'''
+docker ps
+'''
+### To stop any container
+'''
+docker stop<container_id>
+'''
+###

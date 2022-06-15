@@ -48,7 +48,7 @@ sumitbhagat472@gmail.com
 '''
 ### (2) heroku api key
 '''
-f57b41ef-c608-485a-8a79-1a6034b0b93a
+<__hidden__>
 '''
 ### (3) app name
 '''
